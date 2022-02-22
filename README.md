@@ -12,7 +12,11 @@ Observe que este arquivo de configuração é lido pelo script de conexão ***ap
 ## Tarefas:
 
 
-1. Use o exemplo de código disponível no repositório 🌐 para realizar a atividade, completando as lacunas de código nos scripts (“//implemente aqui”).
+1. Use o exemplo de código disponível neste repositório para realizar a atividade, completando as lacunas de código nos scripts:
+
+```js
+//implemente aqui
+```
 
 2. Implemente o código do script readAllData.js para listar todos os dados do banco, utilize o método get().
 
