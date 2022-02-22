@@ -30,7 +30,7 @@ Observe que este arquivo de configuração é lido pelo script de conexão ***ap
 
 7. Implemente o código do script ***[orderDataDesc.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/orderDataDesc.js)*** para listar os dados na ordem reversa das chaves dos nós de ***“produtos”***
 
-8. Implemente o código do script ***[orderProdPrice.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/orderProdPrice.js)*** para ordenar os nós de ***“produtos”*** pelo valor do campo preco.
+8. Implemente o código do script ***[orderProdPrice.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/orderProdPrice.js)*** para ordenar os nós de ***“produtos”*** pelo valor do campo ***"preco"***.
 
 
 
