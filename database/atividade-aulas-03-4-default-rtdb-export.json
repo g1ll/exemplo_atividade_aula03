@@ -1,0 +1,84 @@
+{
+  "produtos" : {
+    "-MwSzyJMlNDToTGtPuhc" : {
+      "descricao" : "Samsung A5 2017 2GB Exynos 8Core",
+      "id_prod" : 111,
+      "importado" : 0,
+      "nome" : "Samsumg A5 - 2017",
+      "preco" : 4500,
+      "qtd_estoque" : 2
+    },
+    "-MwSzyJRCG0FFdR2Ny_m" : {
+      "descricao" : "I5 7600HQ 8GBMen GTX1030m SSD 1TB",
+      "id_prod" : 112,
+      "importado" : 0,
+      "nome" : "Notebook DELL Inspiron 15",
+      "preco" : 8500,
+      "qtd_estoque" : 300
+    },
+    "-MwSzyJTjCQcOVP1srHQ" : {
+      "descricao" : "I7 10800HQ 16GB MEM NVIDIA-RTX2060m SSD 2TB",
+      "id_prod" : 113,
+      "importado" : 0,
+      "nome" : "Notebook Samsumg Gamer",
+      "preco" : 17500,
+      "qtd_estoque" : 150
+    },
+    "-MwSzyJTjCQcOVP1srHR" : {
+      "descricao" : "SSD SAMSUNG EVO 860 4TB",
+      "id_prod" : 114,
+      "importado" : 0,
+      "nome" : "SSD 4TB",
+      "preco" : 6350,
+      "qtd_estoque" : 200
+    },
+    "-MwSzyJUwBHLbvkpqk8A" : {
+      "descricao" : "SSD SAMSUNG EVO 860 2TB",
+      "id_prod" : 115,
+      "importado" : 0,
+      "nome" : "SSD 2TB",
+      "preco" : 3750,
+      "qtd_estoque" : 150
+    },
+    "-MwSzyJVVP43aN_6a0Ka" : {
+      "descricao" : "SSD WESTERN DIGITAL",
+      "id_prod" : 121,
+      "importado" : 0,
+      "nome" : "SSD 4TB",
+      "preco" : 4150,
+      "qtd_estoque" : 20
+    },
+    "-MwSzyJWeD41xD9ENux0" : {
+      "descricao" : "GPU NVIDIA 12GB MEM GDDR6 256BITS GAINWARD PHOENIX ",
+      "id_prod" : 122,
+      "importado" : 0,
+      "nome" : "GAINWARD PHOENIX RTX3080ti",
+      "preco" : 14150,
+      "qtd_estoque" : 30
+    },
+    "-MwSzyJWeD41xD9ENux1" : {
+      "descricao" : "GPU NVIDIA 8GB MEM GDDR6 256BITS GAINWARD PHOENIX ",
+      "id_prod" : 123,
+      "importado" : 0,
+      "nome" : "GAINWARD PHOENIX RTX3070",
+      "preco" : 7399,
+      "qtd_estoque" : 60
+    },
+    "-MwSzyJXAhIthYbLnzpv" : {
+      "descricao" : "AMAZON ALEX ECHO DOT 3 GEN SMART SPEAKER",
+      "id_prod" : 124,
+      "importado" : 0,
+      "nome" : "ECHO DOT ALEXA",
+      "preco" : 200,
+      "qtd_estoque" : 1000
+    },
+    "-MwSzyJY7z5GZaR4R4vr" : {
+      "descricao" : "LED 35\" 3440x1440 Preto 1 HDMI(v1.4)",
+      "id_prod" : 125,
+      "importado" : 0,
+      "nome" : "Monitor Asus BK 35''",
+      "preco" : 9990,
+      "qtd_estoque" : 500
+    }
+  }
+}
