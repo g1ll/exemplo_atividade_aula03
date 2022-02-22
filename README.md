@@ -24,7 +24,7 @@ Observe que este arquivo de configuração é lido pelo script de conexão ***ap
 
 4.  Implemente o código do script ***[monitorNode.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/monitorNode.js)*** para mostrar somente os dados dós nós de ***“produtos”*** que sofrerem alguma alteração.
 
-5. Altere o código do arquivo <a href="https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/monitorNode.js" targe=_blank>monitorNode.js</a> para que o monitoramento seja interrompido no momento que o nó  (***-MwSzyJMlNDToTGtPuhc***) for alterado.
+5. Altere o código do arquivo <a href="https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/monitorNode.js" target=_blank>monitorNode.js</a> para que o monitoramento seja interrompido no momento que o nó  (***-MwSzyJMlNDToTGtPuhc***) for alterado.
  
 6. Implemente o código do script orderData.js para listar todos os dados do banco de uma vez só, utilize o método ***query()***.
 
