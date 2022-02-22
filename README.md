@@ -7,16 +7,14 @@ Crie o arquivo **_configDB.json_** na pasta ***config*** na raiz do projeto. Est
 
 Observe que este arquivo de configuração é lido pelo script de conexão ***app/connectToFB.js***:
 
-[![uso-do-config-json](https://i.ibb.co/37f0Pkh/image.png)](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/connetToFB.js)
+[![uso-do-config-json](https://i.ibb.co/37f0Pkh)](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/connetToFB.js)
 
 ## Tarefas:
 
 
 1. Use o exemplo de código disponível neste repositório para realizar a atividade, completando as lacunas de código nos scripts:
 
-```js
-//implemente aqui
-```
+[![fig-implemente-aqui](https://ibb.co/Pc0dS4N)](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/readAllData.js)
 
 2. Implemente o código do script readAllData.js para listar todos os dados do banco, utilize o método get().
 
