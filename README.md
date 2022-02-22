@@ -22,7 +22,7 @@ Observe que este arquivo de configuração é lido pelo script de conexão ***ap
 
 3. Implemente o código do script [monitorAllData.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/monitorAllData.js) para monitorar alterações no banco de dados ***“produtos”***. Use o evento que retorna todos os objetos do banco a cada alteração!
 
-4.  Implemente o código do script [monitorNode.js] para mostrar somente os dados dós nós de ***“produtos”*** que sofrerem alguma alteração.
+4.  Implemente o código do script ***[monitorNode.js](https://github.com/g1ll/exemplo_atividade_aula03/blob/main/app/monitorNode.js)*** para mostrar somente os dados dós nós de ***“produtos”*** que sofrerem alguma alteração.
 
 5. Altere o código do arquivo monitorNode.js para que o monitoramento seja interrompido no momento que o nó  (***-MwSzyJMlNDToTGtPuhc***) for alterado.
  
