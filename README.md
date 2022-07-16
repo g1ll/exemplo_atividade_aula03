@@ -7,7 +7,7 @@ Crie o arquivo **_configDB.json_** na pasta ***config*** na raiz do projeto. Est
 
 Exemplo da sintaxe JSON, cuide para manter as chaves e os valores entre aspas ({**"chave"**:***"valor"***})
 
-[![sintaxe-config-json](https://i.ibb.co/18KjhyY/image.png)](https://ibb.co/18KjhyY)
+[![sintaxe-config-json](https://i.ibb.co/syQzkxp/exemplo-config-db-json.png)](https://ibb.co/18KjhyY)
 
 Observe que este arquivo de configuração é lido pelo script de conexão ***app/connectToFB.js***:
 
