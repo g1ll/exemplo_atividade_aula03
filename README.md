@@ -1,6 +1,12 @@
 
 # Atividade Aula 03: Leitura e Ordenação
 
+Assim que clonar o repositório instale a dependência do Firebase com o seguinte comando:
+
+```shell
+npm install
+```
+
 Crie o arquivo **_configDB.json_** na pasta ***config*** na raiz do projeto. Este arquivo deve conter os dados de configuração do firebase de acordo com o seu projeto.
 
 [![exemplo-config-json](https://i.ibb.co/FDJqByk/image.png)](https://ibb.co/tJcPbvw)
