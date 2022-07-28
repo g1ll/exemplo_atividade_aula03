@@ -7,6 +7,9 @@ Assim que clonar o repositório instale a dependência do Firebase com o seguint
 npm install
 ```
 
+Crie um projeto no Firebase com o Realtime Database e importe os dados do seguinte arquivo json:
+[database/atividade-aulas-03-4-default-rtdb-export.json](database/atividade-aulas-03-4-default-rtdb-export.json)
+
 Crie o arquivo **_configDB.json_** na pasta ***config*** na raiz do projeto. Este arquivo deve conter os dados de configuração do firebase de acordo com o seu projeto.
 
 [![exemplo-config-json](https://i.ibb.co/FDJqByk/image.png)](https://ibb.co/tJcPbvw)
